@@ -7,3 +7,5 @@ This project creates random characters and displays them in a Python Tkinter GUI
 3. Using these profiles, it then sorts the characters into sex-age categories.
 4. Using these categories, it then scrapes images of AI generates faces from a website and saves them in the project, also referencing their location within the profiles of the characters.
 5. Using main.py a menu is loaded, from which you are able to display the GUI of characters or create a new set of characters.
+
+The character data (.json file and /media folder) already present does not need to be downloaded with the project, **as long as you create a new set of characters** when running the program. I have only added an instance of them to the repository to fully represent the code.
