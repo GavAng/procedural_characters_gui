@@ -1,4 +1,4 @@
-# work_force_gui
+# procedural_characters_gui
 
 This project creates random characters and displays them in a Python Tkinter GUI.
 
