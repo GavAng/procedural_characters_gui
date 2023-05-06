@@ -19,3 +19,5 @@ This project creates random personas and displays them in a Python Tkinter GUI.
 > pip install pillow
 
 2. Run *main.py*
+
+3. Once you have clicked 'Open GUI', you can only scroll by holding and dragging the thin scrollbar on the right
