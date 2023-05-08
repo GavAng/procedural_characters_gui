@@ -12,11 +12,11 @@ This project creates random personas and displays them in a Python Tkinter GUI.
 
 1. Run the following installation commands:
 
-> pip install requests
+> python -m pip install requests
 >
-> pip install bs4
+> python -m pip install bs4
 >
-> pip install pillow
+> python -m pip install pillow
 
 2. Run *main.py*
 
